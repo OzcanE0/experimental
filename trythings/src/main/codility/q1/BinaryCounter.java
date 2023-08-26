@@ -3,7 +3,7 @@ package q1;
 import java.util.*;
 import java.util.stream.Collectors;
 
-// https://app.codility.com/programmers/lessons/1-iterations/binary_gap/ ADHD Extended edition binary max 0lı boşluk için kullanırsın keye takrar edem max 0 sayısını koysan sonra değeri çekeringo
+// https://app.codility.com/programmers/lessons/1-iterations/binary_gap/  binary max 0lı boşluk için kullanırsın keye takrar edem max 0 sayısını koysan sonra değeri çekeringo
 
 
 public class BinaryCounter {
